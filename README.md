@@ -1,4 +1,4 @@
-# ethsanfranscisco October 5 - 7, 2018, The Palace of Fine Arts, CA, USA
+# ETH SAN FRANCISCO, October 5 - 7, 2018, The Palace of Fine Arts, CA, USA
 Research &amp; Donate Decentralized Application
 
 # Inspiration:
