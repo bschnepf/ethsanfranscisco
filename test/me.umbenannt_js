@@ -1,0 +1,7 @@
+// zenbu, 全部, bs: 27/08/2018 part of Dapp for ConsenSys Academy
+
+const Me = artifacts.require('../contracts/Me.sol')
+
+contract('Me', function () {
+
+})
